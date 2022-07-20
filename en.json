@@ -90,7 +90,7 @@
     "AllMembers": " all members",
     "MembersWithRole": " members with role contains \"voting\"",
     "ManageMessageMembers": " members with messages manage permission",
-    "ManageChannelMembers": " members with channels manage permission",
+    "ManageChannelMembers": " members with manage channels permission",
     "AdminMembers": " members with admin permission",
     "Page1Title": "Who can create voting?",
     "Page2Title": "Who can repost voting on this server?",
